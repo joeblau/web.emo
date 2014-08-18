@@ -1,0 +1,49 @@
+@font-face {
+  font-family: 'Ideal Sans Bold';
+  src: url('../fonts/IdealSans-Bold-Pro.eot'); /* IE9 Compat Modes */
+  src: url('../fonts/IdealSans-Bold-Pro.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+  url('../fonts/IdealSans-Bold-Pro.woff') format('woff'), /* Modern Browsers */
+  url('../fonts/IdealSans-Bold-Pro.ttf')  format('truetype'), /* Safari, Android, iOS */
+  url('../fonts/IdealSans-Bold-Pro.svg#0722480d26162c981261a6abc6475ffb') format('svg'); /* Legacy iOS */
+
+  font-style:   normal;
+  font-weight:  700;
+}
+
+@font-face {
+  font-family: 'Ideal Sans Book';
+  src: url('../fonts/IdealSans-Book-Pro.eot'); /* IE9 Compat Modes */
+  src: url('../fonts/IdealSans-Book-Pro.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+  url('../fonts/IdealSans-Book-Pro.woff') format('woff'), /* Modern Browsers */
+  url('../fonts/IdealSans-Book-Pro.ttf')  format('truetype'), /* Safari, Android, iOS */
+  url('../fonts/IdealSans-Book-Pro.svg#b84924955d4e41e662c6092e94e569bf') format('svg'); /* Legacy iOS */
+
+  font-style:   normal;
+  font-weight:  400;
+}
+
+@font-face {
+  font-family: 'Ideal Sans Light';
+  src: url('../fonts/IdealSans-Light-Pro.eot'); /* IE9 Compat Modes */
+  src: url('../fonts/IdealSans-Light-Pro.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+  url('../fonts/IdealSans-Light-Pro.woff') format('woff'), /* Modern Browsers */
+  url('../fonts/IdealSans-Light-Pro.ttf')  format('truetype'), /* Safari, Android, iOS */
+  url('../fonts/IdealSans-Light-Pro.svg#fdc62b113b3cf0247b7dbbcadc037c84') format('svg'); /* Legacy iOS */
+
+  font-style:   normal;
+  font-weight:  200;
+}
+
+@font-face {
+  font-family: 'Ideal Sans Medium';
+  src: url('../fonts/IdealSans-Medium-Pro.eot'); /* IE9 Compat Modes */
+  src: url('../fonts/IdealSans-Medium-Pro.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+  url('../fonts/IdealSans-Medium-Pro.woff') format('woff'), /* Modern Browsers */
+  url('../fonts/IdealSans-Medium-Pro.ttf')  format('truetype'), /* Safari, Android, iOS */
+  url('../fonts/IdealSans-Medium-Pro.svg#49f84357194c015b7533ec7c9dcf973a') format('svg'); /* Legacy iOS */
+
+  font-style:   normal;
+  font-weight:  400;
+}
+
+
